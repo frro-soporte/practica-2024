@@ -1,4 +1,4 @@
-# Práctica de Soporte
+# Práctica de Soporte 2024
 
 En este repositorio se encuentran diversos trabajos prácticos, cada trabajo tiene uno o más ejercicios, en cada ejercicio habrá una sección incompleta donde el alumno deberá escribir código. 
 
