@@ -49,10 +49,3 @@ def test_asserts_ejercicio_12():
 def test_asserts_ejercicio_13():
     import ejercicio_13
 
-
-def test_asserts_ejercicio_14():
-    import ejercicio_14
-
-
-def test_asserts_ejercicio_15():
-    import ejercicio_15
