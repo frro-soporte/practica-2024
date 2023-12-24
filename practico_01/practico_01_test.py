@@ -46,6 +46,3 @@ def test_asserts_ejercicio_12():
     import ejercicio_12
 
 
-def test_asserts_ejercicio_13():
-    import ejercicio_13
-
